@@ -15,13 +15,22 @@ Para el proyecto se utilizó el framework Angular, el cual permite el uso de dif
 
 La primera página que aparece es el Login, el cual permite iniciar sesión con un usuario precargado 
 
-[![Login](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 - Pókedex
 
 La Pókedex es el lugar donde aparecen los pokemones, acá podrás ver los mejores 15 pokemon que existen, estos pueden ser buscados por tipo, nombre o número.
 
-[![Login](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+![Foto1](https://user-images.githubusercontent.com/98893615/164862061-9633e8f5-3240-4cc3-917e-a6f00613ffcd.png)
+
+El filtro por nombre
+
+![Foto2](https://user-images.githubusercontent.com/98893615/164862465-a25530e3-304b-4d77-a11c-d3d77d63673e.jpg)
+
+El filtro por número
+![Foto3](https://user-images.githubusercontent.com/98893615/164862591-870a1c2d-ba53-45cb-bf1a-7c7d301738c2.jpg)
+
+El filtro por tipo
+![Foto4](https://user-images.githubusercontent.com/98893615/164862611-8d667ed3-1961-4023-9554-c1598300a5f6.jpg)
 
 ## Backend
 Para el Backend se utilizó Node.js, el cual es  un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en el lenguaje de programación JavaScript. Gracias a este entorno, pudimos crear una API Rest.

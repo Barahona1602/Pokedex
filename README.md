@@ -1,13 +1,20 @@
 # Proyecto2_202109715
+Este es mi proyecto 2 de Introducción a la Programación y Computación 1
 ## Tabla de Datos
 | Nombre | Pablo Josué Barahona Luncey |
 | ------ | ------ |
 | Carnet | 202109715 |
 | Auxiliar |  Javier Oswaldo Mirón Cifuentes (Sección F) |
 
+#### VS Code
+Se utilizó Visual Studio Code como editor de texto para poder usar los diferentes lenguajes de programación
+
 ## Frontend
+El desarrollo web Front-end consiste en la conversión de datos en una interfaz gráfica para que el usuario pueda ver e interactuar con la información de forma digital usando HTML, CSS y JavaScript.
+
 #### Angular
-Para el proyecto se utilizó el framework Angular, el cual permite el uso de diferentes librerías y componentes. Principalmente está escrito en Typescript. Para su funcionamiento utilizamos el puerto del localhost:4200 (Predeterminado)
+Para el proyecto se utilizó Angular, el cual es un framework para aplicaciones web, donde su principal lenguaje es TypeScript.
+A través de este framework, se trabajó con distintas librerías y carpetas. Como librerías utiizamos bootstrap, el cual es un código abierto para diseñar el sitio web. El programa está dividido en carpetas como la mas importante (src) de estas desglosan los componentes, modelos y servicios, útiles para todo el programa. Para su funcionamiento utilizamos el puerto del localhost:4200 (Predeterminado)
 
 #### Manual de uso
 

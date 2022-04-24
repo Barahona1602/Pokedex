@@ -21,6 +21,7 @@ A través de este framework, se trabajó con distintas librerías y carpetas. Co
 - Login
 
 La primera página que aparece es el Login, el cual permite iniciar sesión con un usuario precargado 
+![login](https://user-images.githubusercontent.com/98893615/165001680-17450edb-8503-4138-bf89-cf758bae76ff.jpg)
 
 
 - Pókedex

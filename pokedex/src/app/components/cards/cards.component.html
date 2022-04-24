@@ -1,0 +1,46 @@
+<div *ngIf="datoPokemon.Tipo === 'Fuego'" class="cardfuego" >
+
+    <div class="cardfuego" style="width: 22.5rem;">
+      <div class="card-body">
+        <p class="card-title">{{datoPokemon.Nombre}}</p>
+        <p class="card-text">{{datoPokemon.Numero}}</p>
+      </div>
+     <img class="card-img-top" src="{{datoPokemon.Imagen}}" alt="Card image cap">
+      <div class="card-body">
+        <p class="card-ataque"><b>Ataque: </b> {{datoPokemon.Ataque}}<p>
+        <p class="card-tipo"><b>Tipo: </b> {{datoPokemon.Tipo}}</p>
+      </div>
+    </div>
+    </div>
+    
+    <div *ngIf="datoPokemon.Tipo === 'Agua'" class="cardagua" >
+    
+      <div class="cardagua" style="width: 22.5rem;">
+        <div class="card-body">
+          <p class="card-title">{{datoPokemon.Nombre}}</p>
+          <p class="card-text">{{datoPokemon.Numero}}</p>
+        </div>
+        <img class="card-img-top" src="{{datoPokemon.Imagen}}" alt="Card image cap">
+        <div class="card-body">
+          <p class="card-ataque"><b>Ataque: </b> {{datoPokemon.Ataque}}<p>
+          <p class="card-tipo"><b>Tipo: </b> {{datoPokemon.Tipo}}</p>
+        </div>
+      </div>
+    </div>
+    
+    <div *ngIf="datoPokemon.Tipo === 'Hierba'" class="cardhierba" >
+    
+      <div class="cardhierba" style="width: 22.5rem;">
+        <div class="card-body">
+          <p class="card-title">{{datoPokemon.Nombre}}</p>
+          <p class="card-text">{{datoPokemon.Numero}}</p>
+    
+        </div>
+        <img class="card-img-top" src="{{datoPokemon.Imagen}}" alt="Card image cap">
+        <div class="card-body">
+          <p class="card-ataque"><b>Ataque: </b> {{datoPokemon.Ataque}}<p>
+          <p class="card-tipo"><b>Tipo: </b> {{datoPokemon.Tipo}}</p>
+        </div>
+      </div>
+    </div>
+    

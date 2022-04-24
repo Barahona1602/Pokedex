@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <button routerLink="Buscar" class="btn btn-danger mx-2">Buscar</button>
+  <div class="container" *ngFor="let dato of datosPokemon">
+    <app-cards [datoPokemon]="dato"></app-cards>
+  </div>
+</body>
+</html>
